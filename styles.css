@@ -1,3 +1,15 @@
+/* Style for the charity water logo at the top */
+.logo-container {
+  text-align: center; /* Center the logo */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.charity-water-logo {
+  width: 100px; /* Set a smaller width for the logo */
+  height: auto; /* Keep the aspect ratio */
+  display: inline-block;
+}
 /* charity: water Brand Colors & Fonts
 
 Primary Colors:
